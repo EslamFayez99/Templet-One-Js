@@ -18,7 +18,7 @@ closeNav.onclick = () => {
 
 let header = document.getElementById("header");
 
-let i = 800;
+let i = 100;
 
 
 window.onscroll = function () {
